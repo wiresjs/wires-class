@@ -1,26 +1,26 @@
 {
-  "name": "wires-class",
-  "version": "0.0.0",
-  "description": "Wires-Class is a helper, based on Backbone.Events and extend functionality",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/wiresjs/wires-class.git"
-  },
-  "keywords": [
-    "wires",
-    "javascript-inheritance"
-  ],
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/wiresjs/wires-class/issues"
-  },
-  "homepage": "https://github.com/wiresjs/wires-class",
-  "dependencies": {
-    "lodash": "^2.4.1"
-  }
+	"name": "wires-class",
+	"version": "1.0.0",
+	"description": "Wires-Class is a helper, based on Backbone.Events and extend functionality",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/wiresjs/wires-class.git"
+	},
+	"keywords": [
+		"wires",
+		"javascript-inheritance"
+	],
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/wiresjs/wires-class/issues"
+	},
+	"homepage": "https://github.com/wiresjs/wires-class",
+	"dependencies": {
+		"lodash": "^2.4.1"
+	}
 }
